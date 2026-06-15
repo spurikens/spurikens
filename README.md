@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=s2bruj70drjekk8hzuqvhh5z9&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=414141&bar_color_cover=false">
+  </a>
+</p>
 
 　<p align="center">![](https://i.postimg.cc/GpNqKKWd/l-UV4.gif)</p>
 
